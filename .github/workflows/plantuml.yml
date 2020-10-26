@@ -1,4 +1,5 @@
 name: Generate Class Diagram
+
 on: push
 jobs:
   generate_plantuml:
